@@ -1,0 +1,118 @@
+
+
+  .tabl4 {
+    position: absolute;
+    width: 90vw;
+    height: 5vw;
+    top: 2vw;
+    left:5vw;
+  }
+
+  .project4 {
+    position: absolute;
+    top: 3.7vw;
+    left: 9vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+
+  }
+
+
+
+  .news4 {
+    position: absolute;
+    top: 3.7vw;
+    left: 30vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+
+  .about4 {
+    position: absolute;
+    top: 3.7vw;
+    left: 56vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+
+  .shop4 {
+    position: absolute;
+    top: 3.7vw;
+    left: 80vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+
+  .project4 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .news4 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .shop4 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+
+  .about4 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .menutext4{
+    position: absolute;
+    width: 15vw;
+    left: 41vw;
+    top: 12vw;
+  }
+
+.infocard1{
+    position: absolute;
+    width: 47vw;
+    left: 10vw;
+    top: 20vw;
+
+}
+
+
+.infocard2{
+    position: absolute;
+    width: 47vw;
+    left: 40vw;
+    top: 45vw;
+
+}
+
+.infotext1{
+    position: absolute;
+    top: 25vw;
+    left: 15vw;
+    font-size: 30px;
+    font-family: "Raleway-Medium";
+
+}
+
+.infotext2{
+    position: absolute;
+    top: 50vw;
+    left: 45vw;
+    font-size: 30px;
+    font-family: "Raleway-Medium";
+    
+}
+
+.line10{
+    position: absolute;
+    width: 100vw;
+    height: 50vw;
+    top: 5vw;
+    left: 0vw;
+}

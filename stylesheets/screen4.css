@@ -1,0 +1,137 @@
+
+
+  .tabl3 {
+    position: absolute;
+    width: 90vw;
+    height: 5vw;
+    top: 2vw;
+    left:5vw;
+  }
+
+  .project3 {
+    position: absolute;
+    top: 3.7vw;
+    left: 9vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+
+  }
+
+
+
+  .news3 {
+    position: absolute;
+    top: 3.7vw;
+    left: 30vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+
+  .about3 {
+    position: absolute;
+    top: 3.7vw;
+    left: 56vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+
+  .contacts3 {
+    position: absolute;
+    top: 3.7vw;
+    left: 80vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+
+  .project3 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .news3 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .contacts3 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+
+  .about3 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .menutext3{
+    position: absolute;
+    width: 15vw;
+    left: 41vw;
+    top: 12vw;
+  }
+
+  .line9{
+        position: absolute;
+        width: 80vw;
+        height: 110vw;
+        top: 0vw;
+        left: 7vw;
+    
+      }
+  
+
+  .shopcard_1 {
+    position: absolute;
+    width: 38vw;
+    left: 5vw;
+    top: 20vw;
+  }
+
+  .shopcard_2 {
+    position: absolute;
+    width: 37vw;
+    left: 55vw;
+    top: 20vw;
+  }
+  
+
+  .shopcard_3 {
+    position: absolute;
+    width: 38vw;
+    left: 5vw;
+    top: 67vw;
+  }
+
+  .buy1{
+    position: absolute;
+    top: 60vw;
+    left: 5vw;
+    font-size: 25px;
+    font-family: "Raleway-Medium";
+  }
+
+  .buy2{
+    position: absolute;
+    top: 60vw;
+    left: 55vw;
+    font-size: 25px;
+    font-family: "Raleway-Medium";
+  }
+
+
+  .buy3{
+    position: absolute;
+    top: 107vw;
+    left: 5vw;
+    font-size: 25px;
+    font-family: "Raleway-Medium";
+  }
+
+
+
+
+

@@ -1,0 +1,218 @@
+
+  .tabl2 {
+    position: absolute;
+    width: 90vw;
+    height: 5vw;
+    top: 2vw;
+    left:5vw;
+  }
+
+  .project1 {
+    position: absolute;
+    top: 3.7vw;
+    left: 9vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+
+  }
+
+
+
+  .news1 {
+    position: absolute;
+    top: 3.7vw;
+    left: 30vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+
+  }
+
+  .shop1 {
+    position: absolute;
+    top: 3.7vw;
+    left: 56vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+  .contacts1 {
+    position: absolute;
+    top: 3.7vw;
+    left: 80vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+  .project1 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+
+  .line6 {
+    position: absolute;
+    width: 80vw;
+    height: 110vw;
+    top: 0vw;
+    left: -5vw;
+
+  }
+
+  .line7 {
+    position: absolute;
+    width: 100vw;
+    height: 100vw;
+    top: 12vw;
+    left: 0vw;
+
+  }
+
+  .menutext1{
+    position: absolute;
+    width: 15vw;
+    left: 40vw;
+    top: 12vw;
+
+  }
+
+  .photo_about{
+    position: absolute;
+    width: 48vw;
+    left: 42vw;
+    top: 20vw;
+
+  }
+
+  .textmain{
+    position: absolute;
+    top: 20vw;
+    left: 8vw;
+    font-size: 25px;
+    font-family: "Raleway-Medium";
+
+  }
+
+  .subtitle1{
+    position: absolute;
+    top: 58vw;
+    left: 8vw;
+    font-size: 35px;
+    font-family: "Raleway-Semibold";
+
+  }
+
+  .subtitle1_1{
+    position: absolute;
+    top: 66vw;
+    left: 9vw;
+    font-size: 30px;
+    font-family: "Raleway-Medium";
+
+  }
+
+  .subtitle1_11{
+    position: absolute;
+    top: 72vw;
+    left: 9vw;
+    font-size: 25px;
+    font-family: "Raleway-Medium";
+  }
+
+  .subtitle1_2{
+    position: absolute;
+    top: 66vw;
+    left: 55vw;
+    font-size: 30px;
+    font-family: "Raleway-Medium";
+
+  }
+
+  .subtitle1_22{
+    position: absolute;
+    top: 72vw;
+    left: 55vw;
+    font-size: 25px;
+    font-family: "Raleway-Medium";
+
+  }
+
+
+  .subtitle1_3{
+    position: absolute;
+    top: 90vw;
+    left: 9vw;
+    font-size: 30px;
+    font-family: "Raleway-Medium";
+
+  }
+
+  .subtitle1_33{
+    position: absolute;
+    top: 96vw;
+    left: 9vw;
+    font-size: 25px;
+    font-family: "Raleway-Medium";
+
+  }
+
+
+  .subtitle1_4{
+    position: absolute;
+    top: 90vw;
+    left: 55vw;
+    font-size: 30px;
+    font-family: "Raleway-Medium";
+
+  }
+
+  .subtitle1_44{
+    position: absolute;
+    top: 96vw;
+    left: 55vw;
+    font-size: 25px;
+    font-family: "Raleway-Medium";
+
+  }
+
+
+
+  .rectangle1{
+    position: absolute;
+    width: 38vw;
+    height: 20vw;
+    left: 7vw;
+    top: 64vw;
+
+  }
+
+  .rectangle2{
+    position: absolute;
+    width: 38vw;
+    height: 20vw;
+    left: 52vw;
+    top: 64vw;
+
+  }
+
+  .rectangle3{
+    position: absolute;
+    width: 38vw;
+    height: 20vw;
+    left: 7vw;
+    top: 88vw;
+
+  }
+
+  .rectangle4{
+    position: absolute;
+    width: 38vw;
+    height: 20vw;
+    left: 52vw;
+    top: 88vw;
+
+  }
+
+
+
+
+

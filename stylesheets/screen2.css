@@ -1,0 +1,148 @@
+
+  .tabl2 {
+    position: absolute;
+    width: 90vw;
+    height: 5vw;
+    top: 2vw;
+    left:5vw;
+  }
+
+
+
+  .about2 {
+    position: absolute;
+    top: 1.7vw;
+    left: 9vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+
+  }
+
+
+
+  .project2 {
+    position: absolute;
+    top: 1.7vw;
+    left: 30vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+
+  }
+
+  .shop2 {
+    position: absolute;
+    top: 1.7vw;
+    left: 56vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+  .contacts2 {
+    position: absolute;
+    top: 1.7vw;
+    left: 80vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+  .project2 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .about2 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+
+  .shop2 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .contacts2 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+
+  .line8{
+    position: absolute;
+    width: 80vw;
+    height: 110vw;
+    top: 0vw;
+    left: 0vw;
+
+  }
+
+  .menutext2_1 {
+    position: absolute;
+    width: 15vw;
+    left: 40vw;
+    top: 12vw;
+  }
+
+  .subtitle1_5_text{
+    position: absolute;
+    width: 15vw;
+    left: 40.5vw;
+    top: 15vw;
+    font-family: "Raleway-Bold";
+    font-size: 30px;
+
+
+  }
+
+  .plakat1{
+    position: absolute;
+    width: 31vw;
+    left: 9vw;
+    top: 26vw;
+
+  }
+
+
+  .mockup1{
+    position: absolute;
+    width: 47vw;
+    left: 44vw;
+    top: 26vw;
+
+  }
+
+  .mockup2{
+    position: absolute;
+    width: 47vw;
+    left: 9vw;
+    top: 86vw;
+
+  }
+
+  .plakat2{
+    position: absolute;
+    width: 32vw;
+    left: 58vw;
+    top: 86vw;
+
+  }
+
+  .subtitle2_1{
+    position: absolute;
+    width: 15vw;
+    left: 44vw;
+    top: 55vw;
+    font-family: "Raleway-SemiBold";
+    font-size: 30px;
+  }
+
+
+  .subtitle2_2{
+    position: absolute;
+    width: 15vw;
+    left: 9vw;
+    top: 115vw;
+    font-family: "Raleway-SemiBold";
+    font-size: 30px;
+  }
+

@@ -1,0 +1,114 @@
+
+.textabout {
+    position: absolute;
+    top: 3.7vw;
+    left: 9vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+
+  }
+
+
+
+  .news1 {
+    position: absolute;
+    top: 3.7vw;
+    left: 30vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+
+  }
+
+  .shop1 {
+    position: absolute;
+    top: 3.7vw;
+    left: 56vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+  .contacts1 {
+    position: absolute;
+    top: 3.7vw;
+    left: 80vw;
+    font-size: 25px;
+    font-family: "Raleway-Bold";
+  }
+
+
+  .textabout a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .news1 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .shop1 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .contacts1 a {
+    text-decoration: none;
+    color: #222222;
+  }
+
+  .tabl1 {
+    position: absolute;
+    width: 90vw;
+    height: 5vw;
+    top: 2vw;
+    left:5vw;
+  }
+
+  .home {
+    position: absolute;
+    width: 53.26vw;
+    height: 10vw;
+    top: 24vw;
+    left: 23.4vw;
+  }
+
+
+  .line1{
+    position: absolute;
+    width: 45vw;
+    height: 35vw;
+    top: 0vw;
+    left: -1vw;
+  }
+
+  .line2{
+    position: absolute;
+    width: 65vw;
+    height: 55vw;
+    top: 0vw;
+    left: -1vw;
+  }
+
+  .line3{
+    position: absolute;
+    width: 20vw;
+    height: 20vw;
+    top: 37vw;
+    left: -1vw;
+  }
+
+  .line4{
+    position: absolute;
+    width: 40vw;
+    height: 45vw;
+    top: 12vw;
+    left: 60vw;
+  }
+
+  .line5{
+    position: absolute;
+    width: 12vw;
+    height: 40vw;
+    top: 0vw;
+    left: 90vw;
+  }
